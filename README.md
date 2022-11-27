@@ -78,7 +78,7 @@ I also wrote an [article](https://medium.com/@aminebenneji/world-cup-qatar-2022-
 
 * [**results**](results/):Folder holding the results of our prediction and the best model.
 
-    * [**best_classifier.pkl**](results/classifier.pkl): The exported model pickle file.
+    * [**best_classifier.pkl**](results/best_classifier.pkl): The exported model pickle file.
     * [**remaining_group_stage_games_world_cup_2022.csv**](results/remaining_group_stage_games_world_cup_2022.csv): The exported model pickle file.
 
 
