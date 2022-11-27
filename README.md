@@ -86,7 +86,7 @@ I also wrote an [article](https://medium.com/@aminebenneji/world-cup-qatar-2022-
 
 * [**requirements.txt**](/requirements.txt): The project requirements file.
 
-* [**World-Cup-2022-Predictions.ipynb**](notebooks/World-Cup-2022-Predictions.ipynb): 
+* [**World-Cup-2022-Predictions.ipynb**](World-Cup-2022-Predictions.ipynb): 
         Jupyter Notebook including the World Cup 2022 group stage predictions.
 
 <br>
