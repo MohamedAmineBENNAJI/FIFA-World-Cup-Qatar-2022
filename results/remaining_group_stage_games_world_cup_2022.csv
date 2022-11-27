@@ -1,0 +1,21 @@
+,date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,head_to_head_score,rank_difference,home_team_winner,away_team_winner,home_team_second_place,away_team_second_place,home_team_third_place,away_team_third_place,home_team_fourth_place,away_team_fourth_place
+28,2022-11-28,Cameroon,Serbia,,,FIFA World Cup,Al Wakrah,Qatar,True,0.0,14.599999999999998,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+29,2022-11-28,Brazil,Switzerland,,,FIFA World Cup,Doha,Qatar,True,0.0,-13.8,5.0,0.0,2.0,0.0,2.0,0.0,2.0,0.0
+30,2022-11-28,South Korea,Ghana,,,FIFA World Cup,Al Rayyan,Qatar,True,0.0,-32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31,2022-11-28,Portugal,Uruguay,,,FIFA World Cup,Lusail,Qatar,True,0.0,-5.200000000000001,0.0,2.0,0.0,0.0,1.0,0.0,1.0,3.0
+32,2022-11-29,Ecuador,Senegal,,,FIFA World Cup,Al Rayyan,Qatar,True,0.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,2022-11-29,Qatar,Netherlands,,,FIFA World Cup,Al Khor,Qatar,False,0.0,41.2,0.0,0.0,0.0,3.0,0.0,1.0,0.0,1.0
+34,2022-11-29,Wales,England,,,FIFA World Cup,Al Rayyan,Qatar,True,0.0,14.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0
+35,2022-11-29,Iran,United States,,,FIFA World Cup,Doha,Qatar,True,0.0,6.999999999999998,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,2022-11-30,Poland,Argentina,,,FIFA World Cup,Doha,Qatar,True,0.0,23.0,0.0,2.0,0.0,3.0,2.0,0.0,0.0,0.0
+37,2022-11-30,Saudi Arabia,Mexico,,,FIFA World Cup,Lusail,Qatar,True,0.0,40.199999999999996,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+38,2022-11-30,Australia,Denmark,,,FIFA World Cup,Al Wakrah,Qatar,True,0.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+39,2022-11-30,Tunisia,France,,,FIFA World Cup,Al Rayyan,Qatar,True,0.0,28.6,0.0,2.0,0.0,1.0,0.0,2.0,0.0,1.0
+40,2022-12-01,Japan,Spain,,,FIFA World Cup,Al Rayyan,Qatar,True,0.0,17.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+41,2022-12-01,Costa Rica,Germany,,,FIFA World Cup,Al Khor,Qatar,True,0.0,23.2,0.0,4.0,0.0,4.0,0.0,4.0,0.0,1.0
+42,2022-12-01,Croatia,Belgium,,,FIFA World Cup,Al Rayyan,Qatar,True,0.0,12.799999999999999,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+43,2022-12-01,Canada,Morocco,,,FIFA World Cup,Doha,Qatar,True,0.0,16.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+44,2022-12-02,Serbia,Switzerland,,,FIFA World Cup,Doha,Qatar,True,-1.0,9.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+45,2022-12-02,Cameroon,Brazil,,,FIFA World Cup,Lusail,Qatar,True,0.0,37.599999999999994,0.0,5.0,0.0,2.0,0.0,2.0,0.0,2.0
+46,2022-12-02,Ghana,Uruguay,,,FIFA World Cup,Al Wakrah,Qatar,True,0.0,46.599999999999994,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0
+47,2022-12-02,South Korea,Portugal,,,FIFA World Cup,Al Rayyan,Qatar,True,0.0,19.799999999999997,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
